@@ -1,0 +1,61 @@
+# Excel / spreadsheets
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+
+# PDF
+*.pdf
+
+# Word / PowerPoint
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Images / design sources (large)
+*.psd
+*.ai
+*.tif
+*.tiff
+*.bmp
+
+# Archives / installers
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+*.exe
+*.msi
+
+# Databases / backups
+*.db
+*.sqlite
+*.sql
+*.bak
+*.backup
+*.mdb
+*.accdb
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+~$*
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Compiled output
+*.class
+
+# Dependencies
+node_modules/
+vendor/
+
+# IDE
+.vscode/
+.idea/
